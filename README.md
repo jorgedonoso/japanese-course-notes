@@ -1,0 +1,71 @@
+# Week 1
+
+- ohayoogozaimasu
+- konnichiwa
+- konbanwa
+- oyasuminasai
+- sayoonara
+- arigatoogozaimasu
+- dooitashimashite
+- itadakimasu
+- gochisoosamadeshita
+- ittemairimasu
+- itterasshai
+- tadaima
+- okaerinasai
+- Lii wa sensee desu
+- kore wa nihongo no jisho desu
+- hajimemashite Jorge desu
+- ono desu doozo yoroshiku
+- doozo yoroshiku
+- okuni wa?
+- Shingapooru desu
+- aa soo desuka
+- Maria-san wa gakusee desuka
+- iie watashi wa gakusee ja arimasen
+- kaishain desu
+- Ono-san mo kaishain desu ka
+- それはペンじゃありません。
+- 私は先生じゃありません。
+- これは私の本じゃありません。
+- これは私の本ではありません。
+- iie Ono-san wa kasihain ja arimasen (dewa arimasen)
+- wakaru -> wakarimasen.
+- sumimasen sore wa nihongo de nan desuka.
+- kore wa nihongo de enpitsu desu
+- aa soo desuka
+- kuni
+- namae
+- shigoto
+- kaishain
+- sensee
+- gakusee
+- hon
+- enpitsu
+- jisho
+- shinbun
+- nooto
+- boorupen
+- tsukue
+- isu
+- terebi
+- tokee
+- kaban
+- kasa
+- shukudai
+- chizu
+- kore / sore / are
+- nani / nan
+- nihongo
+- eego
+- supeingo
+- furansugo
+- chuugokugo
+- kankokugo
+- roshiago
+- doitsugo
+- この漢字の読み方はどれですか。 先生
+- わたしはがくせいです
+- 男の人：これはだれのかばんですか？
+- 女の人：それは田中さんのです。
+- かばんはだれのですか？
