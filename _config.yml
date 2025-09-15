@@ -1,8 +1,8 @@
-title: Japanese Class
+title: Japanese Course Notes
 theme: minima
 author: Jorge Donoso
 collections:
   lessons:
     output: true
     permalink: /lessons/:path/
-baseurl: "/japanese-class"
+baseurl: "/japanese-course-notes"
