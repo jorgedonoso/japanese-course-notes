@@ -1,4 +1,7 @@
-# Week 1
+---
+week: 1
+layout: lesson
+---
 
 - ohayoogozaimasu
 - konnichiwa

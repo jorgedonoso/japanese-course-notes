@@ -9,6 +9,6 @@ title: Home
 
 These are class notes I took while living abroad.
 
-## Notes
+## Lessons
 
-[Week 1](week-1.md)
+[Week 1](/lessons/week-1/)

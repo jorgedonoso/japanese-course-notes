@@ -1,4 +1,7 @@
 title: Japanese Class
 theme: minima
-author:
-  name: Jorge Donoso
+author: Jorge Donoso
+collections:
+  lessons:
+    output: true
+    permalink: /lessons/:path/
