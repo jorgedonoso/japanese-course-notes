@@ -1,5 +1,5 @@
 ---
-week: 1
+number: 1
 layout: lesson
 ---
 

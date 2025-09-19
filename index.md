@@ -10,10 +10,10 @@ These are my notes from a course I'm taking in Japan.
 ## Lessons
 
 <ul>
-    {% assign sorted_lessons = site.lessons | sort: "week" %}
+    {% assign sorted_lessons = site.lessons | sort: "number" %}
     {% for lesson in sorted_lessons %}
         <li>
-            <a href="{{ lesson.url | relative_url }}">Week {{ lesson.week }}</a>
+            <a href="{{ lesson.url | relative_url }}">Lesson {{ lesson.number }}</a>
         </li>
     {% endfor %}
 </ul>
