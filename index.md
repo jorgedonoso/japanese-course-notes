@@ -10,6 +10,7 @@ These are my notes from a course I'm taking in Japan.
 ## Lessons
 
 <ul>
+    <li><a href="/other/counting.md">Counting</a></li>
     {% assign sorted_lessons = site.lessons | sort: "number" %}
     {% for lesson in sorted_lessons %}
         <li>
