@@ -11,6 +11,7 @@ These are my notes from a course I'm taking in Japan.
 
 <ul>
     <li><a href="{{'/other/counting' | relative_url }}">Counting</a></li>
+    <li><a href="{{'/other/n5-kanji' | relative_url }}">N5 Kanji</a></li>
 
     {% assign sorted_lessons = site.lessons | sort: "number" %}
     {% for lesson in sorted_lessons %}
