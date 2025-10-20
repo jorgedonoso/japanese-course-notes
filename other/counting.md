@@ -1,5 +1,3 @@
-# Counting
-
 | Number | General things          | With counters        | People                       | Flat Objects       | Long Objects      |
 | ------ | ----------------------- | -------------------- | ---------------------------- | ------------------ | ----------------- |
 | 1      | ひとつ <br/>hitotsu     | 一 <br/>ichi         | 一人 <br/>hitori             | 一枚 <br/>ichimai  | 一本 <br/>ippon   |
