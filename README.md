@@ -2,7 +2,7 @@
 
 ## About
 
-These are my notes from the course I’m attending in Japan. I created this site to reinforce my learning and provide a quick reference.
+These are my notes from a course I attended in Japan. I created this site to reinforce my learning and provide a quick reference.
 
 ## Site
 
